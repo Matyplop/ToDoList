@@ -1,0 +1,164 @@
+button{
+    background-color: #00b4d8;
+    color: #fefae0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: 0.3s;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+
+}
+
+.contenedor{
+    height:700px;
+    width: 90%;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+    
+    
+   
+    
+    
+    background-color: #00b4d8;
+    
+    
+    padding: 100px;
+    padding: 0 30px;
+    border-radius: 30px;
+    
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    
+    
+    margin-top: 20px;
+    
+
+    color:#fefae0
+    
+    
+    
+    
+}
+.contenedor_h1{
+
+    text-align: center;
+    margin: 10px;
+    font-size: 2em;
+    color: #fefae0;
+    margin-top: 30px;
+}
+
+
+.margins{
+    margin-top: 100px;
+}
+
+.contenedor_boton{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+   
+   
+   
+
+    
+    
+}
+.contenedor_tarea{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    margin-left: 130px;
+   
+    
+     
+    flex-wrap: wrap;
+
+
+}
+
+.contenedor_text{
+    
+    margin-right: 10%;
+    margin-left: 140px;
+    
+    
+  
+   
+   
+    
+
+   
+    
+
+    
+}
+.tarea {
+    flex:1;
+    margin-bottom: 10px;
+    margin-right: 10%;
+}
+
+
+
+
+
+body{
+    font-family:  Arial, sans-serif;
+   
+    
+}
+
+li {  /*elementos de una lista , cada punto que tendra*/
+    list-style: none;
+    padding: 10px;
+    margin: 11px;
+    background-color: #fefae0;
+    border-radius: 5px;
+   
+    
+    
+   
+    
+    
+
+
+}
+
+ul{
+
+    padding: 0;
+    margin:0;
+}
+
+p{
+    margin-left: 140px;
+}
+
+h4{
+
+    margin-left: 140px;
+}
+
+
+html,body{
+
+    
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    
+    background-color: #fefae0 !important;
+    
+    
+    
+}
+
+
